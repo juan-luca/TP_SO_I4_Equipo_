@@ -1,0 +1,17 @@
+Apellido y nombre de los alumnos que participaron de la interacción:
+Lema Bruno
+Santoliquido Juan
+Jaimez Maria Luana
+
+Preguntas:
+A- ¿Qué color de fondo tiene su página en el TESTING?
+Color Azul
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO?
+Color Amarillo
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Color Azul
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Queda el de BETA
