@@ -15,3 +15,21 @@ Color Azul
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Queda el de BETA
+
+Preguntas 2:
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, tanto Beta como Gamma tuvieron inconvenientes a la hora de hacer el push
+
+F- ¿Qué problemas surgieron?
+Tiraba error porque el repositorio no estaba actualizado
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+La solucion fue hace git push -f
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+En el caso de Alfa no era posible, pedia que se utilizara el comando git push origin TESTING. Tanto Gamma como Beta pudieron utilizar, de esta forma se sobreescribe.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO?
+Para que eso sucesada se deberia trabajar el punto 19 con el repositorio actualizado, es decir que contenga el punto 18, asi como tambien en el punto 20 se deberia actualizar el repositorio antes de trabajarlo para que contenga el punto 18 y 19. Luego hacer merge desde TESTING para fusionar.
